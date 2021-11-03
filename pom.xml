@@ -63,12 +63,7 @@
                         </goals>
                     </execution>
 
-                    <execution>
-                        <id>default-report</id>
-                        <goals>
-                            <goal>report</goal>
-                        </goals>
-                    </execution>
+
                     <!--    Далее execution вызывающий падение сборки при не 100% покрытии кода -->
                     <!--                <execution>-->
                     <!--                    <id>check</id>-->
